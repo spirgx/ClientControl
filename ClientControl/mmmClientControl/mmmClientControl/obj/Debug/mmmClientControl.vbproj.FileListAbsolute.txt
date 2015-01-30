@@ -1,0 +1,10 @@
+C:\Users\VINCENT\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\VINCENT\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\VINCENT\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+C:\Users\VINCENT\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VINCENT\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+C:\Users\VINCENT\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.UserControl.resources
+C:\Users\VINCENT\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\mmmClientControl.vbproj.GenerateResource.Cache
+C:\Users\VINCENT\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\VINCENT\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+C:\Users\VINCENT\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
